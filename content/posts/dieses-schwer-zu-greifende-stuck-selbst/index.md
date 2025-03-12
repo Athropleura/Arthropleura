@@ -6,8 +6,6 @@ pinned = true
 image = ""
 footnotes = ""
 +++
-## **"Dieses schwer zu greifende Stück selbst"**
-
 <!--StartFragment-->
 
 {{<lead>}}
