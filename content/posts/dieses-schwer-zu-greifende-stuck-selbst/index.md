@@ -6,15 +6,11 @@ pinned = true
 image = ""
 footnotes = ""
 +++
-<!--StartFragment-->
-
 {{<lead>}}
 
 Mechtild Greven, meine Grossmutter, wuchs im Deutschland der Nachkriegszeit auf. Sie erlebte als junge Schauspielerin die Achtundsechziger Bewegung, das Wirtschaftswunder und den Kalten Krieg mit. Später zog sie mit ihrer Familie in die Schweiz. Ich versuche herauszufinden, wie sich ihre Identität im Laufe dieser Zeit entwickelt hat.  
 
 {{</lead>}}
-
-<!--EndFragment-->
 
 **Was bedeutet Identität für dich persönlich?**
 
@@ -25,8 +21,6 @@ Für mich ist Identität sehr stark mit dem Bewusstsein verbunden, dass ich eine
 {{<box>}}
 
 Mechtild Greven wurde 1946 in der Eiffel geboren und wohnt seit 1981 in der Schweiz. Sie ist ausgebildete Schauspielerin, ausserdem besitzt einen Doktortitel in Germanistik. Sie ist zweifache Mutter und fünffache Grossmutter. 
-
-{{<box>}}
 
 <!--EndFragment-->
 
