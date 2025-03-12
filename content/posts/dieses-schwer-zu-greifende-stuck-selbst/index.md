@@ -3,7 +3,7 @@ title = "\"Dieses schwer zu greifende Stück selbst\""
 date = "2025-03-12"
 draft = true
 pinned = true
-image = "bild-interview-oma.jpg"
+image = ""
 footnotes = ""
 +++
 ## **"Dieses schwer zu greifende Stück selbst"**
