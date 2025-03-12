@@ -18,9 +18,17 @@ Für mich ist Identität sehr stark mit dem Bewusstsein verbunden, dass ich eine
 
 <!--StartFragment-->
 
-{{<box>}}
+{{<lead>}}
+
+<!--EndFragment-->
 
 Mechtild Greven wurde 1946 in der Eifel geboren und wohnt seit 1981 in der Schweiz. Sie ist ausgebildete Schauspielerin, ausserdem besitzt einen Doktortitel in Germanistik. Sie ist zweifache Mutter und fünffache Grossmutter. 
+
+<!--StartFragment-->
+
+{{</lead>}}
+
+
 
 <!--EndFragment-->
 
