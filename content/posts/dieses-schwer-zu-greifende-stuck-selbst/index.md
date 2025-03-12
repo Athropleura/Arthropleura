@@ -1,7 +1,7 @@
 +++
 title = "\"Dieses schwer zu greifende Stück selbst\""
 date = "2025-03-12"
-draft = true
+draft = false
 pinned = true
 image = ""
 footnotes = ""
