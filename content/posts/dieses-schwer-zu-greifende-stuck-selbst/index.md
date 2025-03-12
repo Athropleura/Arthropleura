@@ -8,11 +8,15 @@ footnotes = ""
 +++
 ## **"Dieses schwer zu greifende Stück selbst"**
 
+<!--StartFragment-->
+
 {{<lead>}}
 
 Mechtild Greven, meine Grossmutter, wuchs im Deutschland der Nachkriegszeit auf. Sie erlebte als junge Schauspielerin die Achtundsechziger Bewegung, das Wirtschaftswunder und den Kalten Krieg mit. Später zog sie mit ihrer Familie in die Schweiz. Ich versuche herauszufinden, wie sich ihre Identität im Laufe dieser Zeit entwickelt hat.  
 
 {{</lead>}}
+
+<!--EndFragment-->
 
 **Was bedeutet Identität für dich persönlich?**
 
@@ -28,11 +32,7 @@ Mechtild Greven wurde 1946 in der Eiffel geboren und wohnt seit 1981 in der Schw
 
 Ich glaube ich habe mich sehr mit der Kultur in Deutschland identifiziert, schliesslich bin ich dort aufgewachsen. Doch da ich jetzt in der Schweiz wohne, merke ich, dass ein gewisser Wandel vorgefallen ist, dass ich anders denke, eben mehr schweizerisch.
 
-
-
 > *"In der Schweiz wird viel mehr einfach akzeptiert."*
-
-
 
 **Könntest du mir ein Beispiel geben für so einen Unterschied?**
 
@@ -60,11 +60,7 @@ Als ich jünger war, brauchte ich, metaphorisch gesehen, Krücken, um ein Gefüh
 
 Ich denke, da ist schon ein großer Anteil, der auch von einem selbst kommt. Man überrascht sich mehr oder weniger selbst. Ich würde sogar sagen, auch wenn man in einer Umgebung lebt, mit der man sich sehr stark verbindet, trägt man letzten Endes immer dieses schwer zu greifende Stück selbst in sich. Es gibt Theorien, die besagen, dass alles nur von äusseren Faktoren bestimmt wird, aber das habe ich nicht so erfahren.
 
-
-
 > *"Wir merken, dass wir das Verlässliche ankratzen, und dass es deshalb bald nicht mehr so verlässlich sein könnte."*
-
-
 
 **Hat sich das Bedürfnis, zu einer Gemeinschaft zu gehören, verändert?**
 
